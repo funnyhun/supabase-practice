@@ -1,0 +1,9 @@
+# dev
+.vscode
+.prettierrc
+
+# supabase
+.env
+
+# node
+/node_modules

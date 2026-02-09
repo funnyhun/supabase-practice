@@ -1,0 +1,24 @@
+{
+  "name": "supabase-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --env-file=.env index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funnyhun/supabase-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funnyhun/supabase-practice/issues"
+  },
+  "homepage": "https://github.com/funnyhun/supabase-practice#readme",
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.95.3"
+  }
+}
