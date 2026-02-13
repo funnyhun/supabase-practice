@@ -14,6 +14,6 @@ Node.js 환경에서 Supabase 연동 및 로직을 테스트하는 공간입니�
 ## Execution
 
 ```bash
-npm install @supabase/supabase-js
+npm install
 node --env-file=.env index.js
 ```
